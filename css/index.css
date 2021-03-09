@@ -1,10 +1,11 @@
 /*Styles for max width 768px*/
 
 /*Styles for min width 1200px*/
-body{
+body {
     background: whitesmoke;
 }
-header{
+
+header {
     height: 10vh;
     min-width: 100vh;
     background: #fff;
@@ -12,27 +13,26 @@ header{
     border-radius: 0 0 5px 5px;
     display: flex;
 }
-header .logo{
 
-    position:relative;
+header .logo {
+
+    position: relative;
     left: 0.5%;
     height: 100%;
     width: 13%;
     border: 2px solid red;
-    font-family:'Poppins',sans-serif;
-    font-weight:900;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
     font-size: 15px;
-    
 
-    
-   
-}
-.logo h1{
-    color: ;
-    
+
+
+
 }
 
-main img{
+
+
+main img {
     max-width: 100vh;
     max-height: 100vh;
 }
